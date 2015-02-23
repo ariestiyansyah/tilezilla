@@ -1,5 +1,7 @@
 ## Tilezilla
 
+Using : jQuery GridRotator and RevealJS
+
 To add slide section just add `<section>` tag into `<div class="slides">` , for
 example :
 
