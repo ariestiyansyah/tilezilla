@@ -41,6 +41,7 @@
 	display: block;
 	overflow: hidden;
 	background: #000;
+	border: 1px #fff solid ;
 }
 
 .ri-grid ul li a{
