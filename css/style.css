@@ -41,7 +41,7 @@
 	display: block;
 	overflow: hidden;
 	background: #000;
-	border: 1px #fff solid ;
+	border: 10px #fff solid ;
 }
 
 .ri-grid ul li a{
@@ -130,4 +130,14 @@
 	left: 50%;
 	margin: 100px 0 0 -15px;
 	display: block;
+}
+
+
+
+img.desaturate{
+  -webkit-filter: grayscale(1);
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  filter: url(#greyscale);
+  filter: gray;
 }
